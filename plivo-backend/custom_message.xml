@@ -1,0 +1,9 @@
+<Response>
+        <Speak>Hi Aryan The weather info of Hyderabad currently is Temperature: 32.19 degree celsius,
+            Feels like: 33.13 degree celsius,
+            Minimum Temperature: 30.68 degree celsius,
+            Maximum Temperature: 32.19 degree celsius,
+            Pressure: 1017.00,
+            Humidity: 43.00
+  </Speak>
+    </Response>
